@@ -15,7 +15,7 @@ E-Community is a platform designed to connect entrepreneurs from all over the wo
 - **Community Support**: Get support and advice from experienced entrepreneurs who understand the challenges you face.
 
 ## Getting Started
-To join E-Community, simply sign up for an account on our website [here](#). Once registered, you'll gain access to all the features and benefits our platform has to offer.
+To join E-Community, simply sign up for an account on our website [https://e-community.netlify.app/](#). Once registered, you'll gain access to all the features and benefits our platform has to offer.
 
 ## Contributing
 We welcome contributions from members to help make E-Community an even better platform. Whether it's sharing your expertise, organizing events, or providing feedback, your contributions are valuable in shaping the community.
